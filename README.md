@@ -6,7 +6,8 @@
   **Submission for CRUX Inductions Round 1**
 </div>
 
-This project is a remake of **Windows Soviet Edition**, a mock OS game I originally created in August 2020. This repository serves as a nostalgic replication of v0.1 (the original version) of the game.
+This project is a remake of **Windows Soviet Edition**, a mock OS game I originally created in August 2020. This repository serves as a replication of v0.1 (the original version) of the game.
+>The game has a few easter eggs. See if you can find 'em all (heh)
 
 ## History
 
@@ -17,7 +18,7 @@ Unexpectedly, the project went viral:
 * **~24,000 downloads** on the [original build](https://realpratz.itch.io/winsov).
 * Featured in multiple Let's Play videos by YouTubers (e.g., [this one](https://youtu.be/zKabNmTi9FE?si=P3ksNu-HpZeJpMCJ)).
 
-Being the niche and goofy project it is, I decided to remake this project for the CRUX inductions to revisit the fun I had developing it 6 years ago.
+Being the niche and goofy project it is, I decided to remake this project for the CRUx inductions to revisit the fun I had developing it 6 years ago.
 
 ## How to Run
 
@@ -32,10 +33,27 @@ Being the niche and goofy project it is, I decided to remake this project for th
 
 > Alternatively, you can download the ```.unitypackage``` from [itch.io](https://realpratz.itch.io/winsov). Just double-click and it will open itself in the unity project itself.
 
-## Play the game
+## How to Play
 
-You can play the game on Windows by downloading v0.3 (remake) from [itch.io](https://realpratz.itch.io/winsov)
+You can play the game on Windows by downloading v0.3 (remake) from [itch.io](https://realpratz.itch.io/winsov).
 
-## Note
+1. Double click on the setup file and follow through the instructions.
+2. Enjoy!
 
-The game has a few easter eggs. See if you can find 'em all (heh)
+## Credits
+
+This game uses models from the Unity Asset Store and the Internet:
+1. [JustCreate](https://assetstore.unity.com/publishers/44390)
+2. [Pxltiger](https://assetstore.unity.com/publishers/11247)
+3. [Wittybacon](https://sketchfab.com/wittybacon)
+
+This game uses sounds/music the Internet (original and modified):
+1. [Dschinghis Khan](https://www.youtube.com/channel/UCsr3YYPk4A2rG6V88CwWTFA)
+2. Red Alert 3
+3. various other sources
+
+All sprites used in the game are from the Internet (original and modified) or self designed.
+
+All code was self written.
+
+Project written in C# using Unity 6000.0.61f1.
