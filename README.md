@@ -1,6 +1,10 @@
-# Windows Soviet Edition (Remake)
+<div align="center">
+  <img src="BANNER.png" alt="Windows Soviet Edition Banner" width="100%">
+  
+  # Windows Soviet Edition (Remake)
 
-**Submission for CRUx Inductions Round 1**
+  **Submission for CRUX Inductions Round 1**
+</div>
 
 This project is a remake of **Windows Soviet Edition**, a mock OS game I originally created in August 2020. This repository serves as a nostalgic replication of v0.1 (the original version) of the game.
 
