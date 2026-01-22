@@ -56,4 +56,4 @@ All sprites used in the game are from the Internet (original and modified) or se
 
 All code was self written.
 
-Project written in C# using Unity 6000.0.61f1.
+Project written in C# using Universal Render Pipeline (URP) of Unity 6000.0.61f1.
