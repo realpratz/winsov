@@ -4,11 +4,10 @@
   # Windows Soviet Edition (Remake)
 
   **Submission for CRUx Inductions Round 1**
-  > You can checkout the development vlog here: TBA
 </div>
 
 This project is a remake of **Windows Soviet Edition**, a mock OS game I originally created in August 2020. This repository serves as a replication of v0.1 (the original version) of the game.
->The game has a few easter eggs. See if you can find 'em all (heh)
+> You can checkout the development vlog here: TBA
 
 ## History
 
@@ -20,6 +19,7 @@ Unexpectedly, the project went viral:
 * Featured in multiple Let's Play videos by YouTubers (e.g., [this one](https://youtu.be/zKabNmTi9FE?si=P3ksNu-HpZeJpMCJ)).
 
 Being the niche and goofy project it is, I decided to remake this project for the CRUx inductions to revisit the fun I had developing it 6 years ago.
+>The game has a few easter eggs. See if you can find 'em all (heh)
 
 ## How to Run
 
@@ -61,7 +61,7 @@ This game uses models from the Unity Asset Store and the Internet:
 3. [Wittybacon](https://sketchfab.com/wittybacon)
 4. Animations from [Mixamo](https://www.mixamo.com/)
 
-This game uses sounds/music the Internet (original and modified):
+This game uses sounds/music from the Internet (original and modified):
 1. [Dschinghis Khan](https://www.youtube.com/channel/UCsr3YYPk4A2rG6V88CwWTFA)
 2. Red Alert 3
 3. various other sources
