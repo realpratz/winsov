@@ -4,6 +4,7 @@
   # Windows Soviet Edition (Remake)
 
   **Submission for CRUx Inductions Round 1**
+  > You can checkout the development vlog here: TBA
 </div>
 
 This project is a remake of **Windows Soviet Edition**, a mock OS game I originally created in August 2020. This repository serves as a replication of v0.1 (the original version) of the game.
@@ -40,12 +41,25 @@ You can play the game on Windows by downloading v0.3 (remake) from [itch.io](htt
 1. Double click on the setup file and follow through the instructions.
 2. Enjoy!
 
+## (Some) Features
+
+1. A simplistic but functional "Windows XP" desktop environment serving as the immersive game launcher, with multiple "applications".
+2. Enemies utilize Unity NavMesh AI to chase, face, and attack the player automatically.
+3. A movement controller written from scratch featuring a stamina bar that drains while sprinting and regenerates while walking, forcing players to manage their energy during chases.
+4. Smart crosshair that changes color instantly when detecting a valid enemy target.
+5. Endless wave spawning with a dedicated score tracking system.
+6. Dynamic health and currency system.
+7. Interactive SFX for shooting, reloading, empty magazines, and enemy attacks.
+
+Building on point 7, due to time constraints I couldn't work on visual effects of the gun a lot, so the shooting mechanism although functional, is audio-cue based than visual-cue based for now.
+   
 ## Credits
 
 This game uses models from the Unity Asset Store and the Internet:
 1. [JustCreate](https://assetstore.unity.com/publishers/44390)
 2. [Pxltiger](https://assetstore.unity.com/publishers/11247)
 3. [Wittybacon](https://sketchfab.com/wittybacon)
+4. Animations from [Mixamo](https://www.mixamo.com/)
 
 This game uses sounds/music the Internet (original and modified):
 1. [Dschinghis Khan](https://www.youtube.com/channel/UCsr3YYPk4A2rG6V88CwWTFA)
