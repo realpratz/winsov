@@ -19,6 +19,7 @@ Unexpectedly, the project went viral:
 * Featured in multiple Let's Play videos by YouTubers (e.g., [this one](https://youtu.be/zKabNmTi9FE?si=P3ksNu-HpZeJpMCJ)).
 
 Being the niche and goofy project it is, I decided to remake this project for the CRUx inductions to revisit the fun I had developing it 6 years ago.
+> [!TIP]
 >The game has a few easter eggs. See if you can find 'em all (heh)
 
 ## How to Run
@@ -30,8 +31,11 @@ Being the niche and goofy project it is, I decided to remake this project for th
 2.  Open **Unity Hub**.
 3.  Add the project to your list ensuring you are using Unity version **6000.0.61f1** (Unity 6).
 4.  Open the project and load the AMI scene from the `Assets/Scenes` folder.
+> [!CAUTION]
+> You must add all scenes to the build configuration if by any chance it already isn't there. The order is not important because the script loads scenes by name.
 5.  Press **Play** in the editor to start the OS simulation.
 
+> [!NOTE]
 > Alternatively, you can download the ```.unitypackage``` from [itch.io](https://realpratz.itch.io/winsov). Just double-click and it will open itself in the unity project itself.
 
 ## How to Play
@@ -51,7 +55,8 @@ You can play the game on Windows by downloading v0.3 (remake) from [itch.io](htt
 6. Dynamic health and currency system.
 7. Interactive SFX for shooting, reloading, empty magazines, and enemy attacks.
 
-Building on point 7, due to time constraints I couldn't work on visual effects of the gun a lot, so the shooting mechanism although functional, is audio-cue based than visual-cue based for now.
+> [!IMPORTANT]
+> Building on point 7, due to time constraints I couldn't work on visual effects of the gun a lot, so the shooting mechanism although functional, is audio-cue based than visual-cue based for now.
    
 ## Credits
 
